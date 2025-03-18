@@ -1,0 +1,39 @@
+.box{
+    background-color: black;
+    text-align: center;
+    height: 90px;
+    width: 400px;
+    margin: auto;
+}
+
+
+
+.ota {
+   border: 5px solid red;
+   background-color: black;
+   width: 700px;
+   height: 200px;
+   text-align: center;
+   margin: 20px auto;
+
+}
+
+.header {
+    color: white;
+    padding: 25px 10px 10px 10px;
+}
+
+.m{
+background-color: white;
+margin-top: 30px;
+margin: 20px 10px 10px 35px;
+width: 90%;
+
+}
+.n{
+    background-color: white;
+margin: 20px 10px 10px 35px;
+width: 90%;
+margin-top: 30px;
+
+}
